@@ -1,2 +1,2 @@
-# freeCodeCamp_Basic-HTML-and-HTML5
+# freeCodeCamp
 https://www.freecodecamp.org/learn/
